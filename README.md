@@ -18,4 +18,7 @@ H2KB is a real-time hand gesture recognition application that maps finger postur
 ```
 git clone https://github.com/yourusername/H2KB.git
 cd H2KB
+pip install -r requirements.txt
+cd src
+python hand_to_keyboard.py
 ```
